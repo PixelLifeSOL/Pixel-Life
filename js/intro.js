@@ -36,7 +36,7 @@ SC.commands["#intro"] = {
         aa.title('Welcome');
         aa.text('Welcome to Pixel Life on Solana. This is Chapter 1, Ghost town. Ghost town is a town populated entirely by AI chat bots. Each with different personality. They live and work in various places within town. Explore Ghost town and talk to the various NPCs. There are 10 quests in Ghost town that you must solve.'); //There are also some quests where you can do more complex stuff. If you want to close this intro, click on the "X". on the upper right corner of the screen.');
         aa.title('Contact Us');
-        aa.text('If you have any questions, contact us at our Official Twitter (https://x.com/PixelLifeSOL)');
+        aa.text('If you have any questions, contact us at our Official Twitter (https://x.com/PixelLife_SOL)');
         aa.title('Moving around');
         if (Android.isReal()) {
             aa.text('Use blue on-screen arrows to move your character around. When you step onto stairs you will be automatically transferred to place where these stairs lead.');
