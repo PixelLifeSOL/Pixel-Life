@@ -34,7 +34,7 @@ SC.commands["#intro"] = {
         aa = SC.articles();
         aa.header('Controls & Instructions');
         aa.title('Welcome');
-        aa.text('Welcome to Pixel Life on Solana. This is Chapter 1, Ghost town. Ghost town is a town populated entirely by AI chat bots. Each with different personality. They live and work in various places within town. Explore Ghost town and talk to the various NPCs. There are 10 quests in Ghost town that you must solve.'); //There are also some quests where you can do more complex stuff. If you want to close this intro, click on the "X". on the upper right corner of the screen.');
+        aa.text('Welcome to Pixel Life on Solana. This is Chapter 1, Ghost town. Ghost town is a town populated entirely by AI Agents, each with different identities and personality. They live and work in various places within town. Explore Ghost town and interact with the various NPCs to solve Quests and become the hero of Pixel Life.'); //There are also some quests where you can do more complex stuff. If you want to close this intro, click on the "X". on the upper right corner of the screen.');
         aa.title('Contact Us');
         aa.text('If you have any questions, contact us at our Official Twitter (https://x.com/PixelLife_SOL)');
         aa.title('Moving around');
